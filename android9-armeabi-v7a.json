@@ -20,169 +20,145 @@
     {
       "title": "🆕⭐[点播]影视仓[5.0.32.1][20240703]",
       "description": "个人认为最好用的聚合影视壳应用",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/%E5%BD%B1%E8%A7%86%E4%BB%93-5.0.32.1-armeabi-v7a.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/%E5%BD%B1%E8%A7%86%E4%BB%93-5.0.32.1-armeabi-v7a.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/%E5%BD%B1%E8%A7%86%E4%BB%93-5.0.32.1-armeabi-v7a.apk?ref=Tinstaller",
       "category": "1-直播&点播"
     },
     {
       "title": "⭐[直播]Tivimate[2.1.5]",
       "description": "个人认为最好用的直播壳应用",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/TiviMate-2.1.5.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/TiviMate-2.1.5.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/TiviMate-2.1.5.apk?ref=Tinstaller",
       "category": "1-直播&点播"
     },
     {
       "title": "⭐[投屏]AirReceiver[5.0.9]",
       "description": "个人认为最好用的投屏软件，无广告，不需要登录。支持DLNA、AirPlay、Google Cast等",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E6%8A%95%E5%B1%8F%26%E6%92%AD%E6%94%BE%E5%99%A8/AirReceiver-5.0.9-armeabi-v7a.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E6%8A%95%E5%B1%8F%26%E6%92%AD%E6%94%BE%E5%99%A8/AirReceiver-5.0.9-armeabi-v7a.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E6%8A%95%E5%B1%8F%26%E6%92%AD%E6%94%BE%E5%99%A8/AirReceiver-5.0.9-armeabi-v7a.apk?ref=Tinstaller",
       "category": "2-投屏&播放器"
     },
     {
       "title": "⭐[播放器]MX Player Pro[1.78.6]",
       "description": "个人认为最好的TV端视频播放器",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E6%8A%95%E5%B1%8F%26%E6%92%AD%E6%94%BE%E5%99%A8/MXPlayerPro-1.78.6-armeabi-v7a.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E6%8A%95%E5%B1%8F%26%E6%92%AD%E6%94%BE%E5%99%A8/MXPlayerPro-1.78.6-armeabi-v7a.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E6%8A%95%E5%B1%8F%26%E6%92%AD%E6%94%BE%E5%99%A8/MXPlayerPro-1.78.6-armeabi-v7a.apk?ref=Tinstaller",
       "category": "2-投屏&播放器"
     },
     {
       "title": "⭐[点播]云视听小电视[1.7.0]",
       "description": "BILIBILI官方TV版客户端",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/%E4%BA%91%E8%A7%86%E5%90%AC%E5%B0%8F%E7%94%B5%E8%A7%86-1.7.0-armeabi-v7a.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/%E4%BA%91%E8%A7%86%E5%90%AC%E5%B0%8F%E7%94%B5%E8%A7%86-1.7.0-armeabi-v7a.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/%E4%BA%91%E8%A7%86%E5%90%AC%E5%B0%8F%E7%94%B5%E8%A7%86-1.7.0-armeabi-v7a.apk?ref=Tinstaller",
       "category": "1-直播&点播"
     },
     {
       "title": "⭐[音乐]网易云音乐[1.1.10]",
       "description": "网易云官方TV客户端",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E9%9F%B3%E4%B9%90/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-1.1.10.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E9%9F%B3%E4%B9%90/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-1.1.10.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E9%9F%B3%E4%B9%90/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-1.1.10.apk?ref=Tinstaller",
       "category": "3-音乐"
     },
     {
       "title": "⭐[浏览器]Via[5.6.1]",
       "description": "一款简单的浏览器客户端",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E5%B7%A5%E5%85%B7/Via-5.6.1.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/Via-5.6.1.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/Via-5.6.1.apk?ref=Tinstaller",
       "category": "4-工具"
     },
     {
       "title": "[点播]Emby[2.0.95g]",
       "description": "Emby官方TV客户端",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/Emby-2.0.95g.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/Emby-2.0.95g.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/Emby-2.0.95g.apk?ref=Tinstaller",
       "category": "1-直播&点播"
     },
     {
       "title": "🆕[点播]OK影视[2.4.1][20240703]",
       "description": "一款不错聚合影视壳应用，基于蜂蜜版，根据用户需求和反馈，借鉴同类产品，添加新功能，提升用户体验。",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/OK%E5%BD%B1%E8%A7%86-2.4.1armeabi-v7a.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/OK%E5%BD%B1%E8%A7%86-2.4.1armeabi-v7a.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/OK%E5%BD%B1%E8%A7%86-2.4.1armeabi-v7a.apk?ref=Tinstaller",
       "category": "1-直播&点播"
     },
     {
       "title": "🆕[点播]蜂蜜影视[2.4.2][20240702]",
       "description": "一款不错聚合影视壳应用，将保持与旧版接近的用户体验，以极简为主，着重于更新播放核心，支持更多基础特性。",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/%E8%9C%82%E8%9C%9C%E5%BD%B1%E8%A7%86-2.4.2-armeabi-v7a.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/%E8%9C%82%E8%9C%9C%E5%BD%B1%E8%A7%86-2.4.2-armeabi-v7a.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/%E8%9C%82%E8%9C%9C%E5%BD%B1%E8%A7%86-2.4.2-armeabi-v7a.apk?ref=Tinstaller",
       "category": "1-直播&点播"
     },
     {
       "title": "🆕[点播]SmartTube[22.19][20240703]",
       "description": "YouTube 第三方客户端",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/SmartTube-22.19-armeabi-v7a.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/SmartTube-22.19-armeabi-v7a.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/SmartTube-22.19-armeabi-v7a.apk?ref=Tinstaller",
       "category": "1-直播&点播"
     },
     {
       "title": "[点播]BLBL[1.4.9]",
       "description": "BILIBILI 第三方 TV 版客户端",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/BLBL-1.4.9.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/BLBL-1.4.9.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/BLBL-1.4.9.apk?ref=Tinstaller",
       "category": "1-直播&点播"
     },
     {
       "title": "🆕[IM]Tevegram[2.7.2][20240630]",
       "description": "telegram第三方TV客户端，功能简单够用",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/Tevegram-2.7.2-armeabi-v7a.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/Tevegram-2.7.2-armeabi-v7a.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/Tevegram-2.7.2-armeabi-v7a.apk?ref=Tinstaller",
       "category": "1-直播&点播"
     },
     {
       "title": "[投屏]当贝投屏[2.5.6]",
       "description": "无广告，不需要登录",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E6%8A%95%E5%B1%8F%26%E6%92%AD%E6%94%BE%E5%99%A8/%E5%BD%93%E8%B4%9D%E6%8A%95%E5%B1%8F-2.5.6.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E6%8A%95%E5%B1%8F%26%E6%92%AD%E6%94%BE%E5%99%A8/%E5%BD%93%E8%B4%9D%E6%8A%95%E5%B1%8F-2.5.6.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E6%8A%95%E5%B1%8F%26%E6%92%AD%E6%94%BE%E5%99%A8/%E5%BD%93%E8%B4%9D%E6%8A%95%E5%B1%8F-2.5.6.apk?ref=Tinstaller",
       "category": "2-投屏&播放器"
     },
     {
       "title": "[音乐]IKTV[60.0.4]",
       "description": "一款不错的KTV应用",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E9%9F%B3%E4%B9%90/IKTV-60.0.4.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E9%9F%B3%E4%B9%90/IKTV-60.0.4.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E9%9F%B3%E4%B9%90/IKTV-60.0.4.apk?ref=Tinstaller",
       "category": "3-音乐"
     },
     {
       "title": "[工具]tvQuickActions Pro[3.4.0]",
       "description": "一款功能强大的TV端按键映射工具",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E5%B7%A5%E5%85%B7/tvQuickActionsPro-3.4.0.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/tvQuickActionsPro-3.4.0.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/tvQuickActionsPro-3.4.0.apk?ref=Tinstaller",
       "category": "4-工具"
     },
     {
       "title": "[备份]Alpha Backup Pro[34.0.9]",
       "description": "个人认为最好用的应用备份工具，支持备份应用数据",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E5%B7%A5%E5%85%B7/AlphaBackupPro-34.0.9-armeabi-v7a.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/AlphaBackupPro-34.0.9-armeabi-v7a.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/AlphaBackupPro-34.0.9-armeabi-v7a.apk?ref=Tinstaller",
       "category": "4-工具"
     },
     {
       "title": "[工具]LocalSend[1.14.0]",
       "description": "局域网传输工具 支持各平台，官网 https://localsend.org",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E5%B7%A5%E5%85%B7/LocalSend-1.14.0.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/LocalSend-1.14.0.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/LocalSend-1.14.0.apk?ref=Tinstaller",
       "category": "4-工具"
     },
     {
       "title": "[应用市场]当贝市场[5.0.5]",
       "description": "当贝市场",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E5%B7%A5%E5%85%B7/%E5%BD%93%E8%B4%9D%E5%B8%82%E5%9C%BA-5.0.5.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/%E5%BD%93%E8%B4%9D%E5%B8%82%E5%9C%BA-5.0.5.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/%E5%BD%93%E8%B4%9D%E5%B8%82%E5%9C%BA-5.0.5.apk?ref=Tinstaller",
       "category": "4-工具"
     },
     {
       "title": "[系统工具]PowerMenu电源菜单[1.6]",
       "description": "全能的电源菜单管理工具",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E5%B7%A5%E5%85%B7/PowerMenu%E7%94%B5%E6%BA%90%E8%8F%9C%E5%8D%95-1.6.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/PowerMenu%E7%94%B5%E6%BA%90%E8%8F%9C%E5%8D%95-1.6.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/PowerMenu%E7%94%B5%E6%BA%90%E8%8F%9C%E5%8D%95-1.6.apk?ref=Tinstaller",
       "category": "4-工具"
     },
     {
       "title": "[文件管理]MiXplorer[6.65.9]",
       "description": "一款不错的文件管理工具",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E5%B7%A5%E5%85%B7/MiXplorer-6.65.9.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/MiXplorer-6.65.9.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/MiXplorer-6.65.9.apk?ref=Tinstaller",
       "category": "4-工具"
     },
     {
       "title": "[文件管理]X-plore[4.38.24]",
       "description": "一款不错的文件管理工具",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E5%B7%A5%E5%85%B7/X-plore-4.38.24.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/X-plore-4.38.24.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/X-plore-4.38.24.apk?ref=Tinstaller",
       "category": "4-工具"
     },
     {
       "title": "[硬件检测]Device Info HW[5.17.3]",
       "description": "一款不错的硬件检测工具",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E5%B7%A5%E5%85%B7/DeviceInfoHW-5.17.3.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/DeviceInfoHW-5.17.3.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/DeviceInfoHW-5.17.3.apk?ref=Tinstaller",
       "category": "4-工具"
     },
     {
       "title": "[桌面]Projectivy Launcher[4.54]",
       "description": "一款不错的桌面程序，支持冻结应用，输入源选择",
-      "url": "https://gitee.com/tvbox-mod/TInstaller/raw/Tinstaller/apk/%E5%B7%A5%E5%85%B7/ProjectivyLauncher-4.54.apk",
-      "mirror": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/ProjectivyLauncher-4.54.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/ProjectivyLauncher-4.54.apk?ref=Tinstaller",
       "category": "4-工具"
     }
   ]
