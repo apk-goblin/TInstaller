@@ -18,9 +18,9 @@
   ],
   "apps": [
     {
-      "title": "🆕⭐[点播]影视仓[5.0.36.1][20240730]",
+      "title": "🆕⭐[点播]影视仓[5.0.39][20240812]",
       "description": "个人认为最好用的聚合影视壳应用",
-      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/%E5%BD%B1%E8%A7%86%E4%BB%93-5.0.36.1-armeabi-v7a.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/%E5%BD%B1%E8%A7%86%E4%BB%93-5.0.39-armeabi-v7a.apk?ref=Tinstaller",
       "category": "1-直播&点播"
     },
     {
@@ -36,9 +36,9 @@
       "category": "2-投屏&播放器"
     },
     {
-      "title": "⭐[播放器]MX Player Pro[1.78.6]",
+      "title": "🆕⭐[播放器]MX Player Pro[1.86.0][20240812]",
       "description": "个人认为最好的TV端视频播放器",
-      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E6%8A%95%E5%B1%8F%26%E6%92%AD%E6%94%BE%E5%99%A8/MXPlayerPro-1.78.6-armeabi-v7a.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E6%8A%95%E5%B1%8F%26%E6%92%AD%E6%94%BE%E5%99%A8/MXPlayerPro-1.86.0-armeabi-v7a.apk?ref=Tinstaller",
       "category": "2-投屏&播放器"
     },
     {
@@ -78,9 +78,9 @@
       "category": "1-直播&点播"
     },
     {
-      "title": "🆕[点播]蜂蜜影视[2.4.6][20240802]",
+      "title": "🆕[点播]蜂蜜影视[2.4.7][20240812]",
       "description": "一款不错聚合影视壳应用，将保持与旧版接近的用户体验，以极简为主，着重于更新播放核心，支持更多基础特性。",
-      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/%E8%9C%82%E8%9C%9C%E5%BD%B1%E8%A7%86-2.4.6-armeabi-v7a.apk?ref=Tinstaller",
+      "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E7%9B%B4%E6%92%AD%26%E7%82%B9%E6%92%AD/%E8%9C%82%E8%9C%9C%E5%BD%B1%E8%A7%86-2.4.7-armeabi-v7a.apk?ref=Tinstaller",
       "category": "1-直播&点播"
     },
     {
@@ -126,7 +126,7 @@
       "category": "4-工具"
     },
     {
-      "title": "🆕[工具]LocalSend[1.15.3][20240730]",
+      "title": "[工具]LocalSend[1.15.3][20240730]",
       "description": "局域网传输工具 支持各平台，官网 https://localsend.org",
       "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/LocalSend-1.15.3-armeabi-v7a.apk?ref=Tinstaller",
       "category": "4-工具"
@@ -150,7 +150,7 @@
       "category": "4-工具"
     },
     {
-      "title": "🆕[文件管理]X-plore[4.38.30][20240730]",
+      "title": "[文件管理]X-plore[4.38.30][20240730]",
       "description": "一款不错的文件管理工具",
       "url": "https://www.gitlink.org.cn/api/tvbox-mod/TInstaller/raw/apk/%E5%B7%A5%E5%85%B7/X-plore-4.38.30.apk?ref=Tinstaller",
       "category": "4-工具"
